@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CardView</string>
+    <string name="coment">Comentar</string>
+    <string name="curtir">Curtir</string>
+</resources>
